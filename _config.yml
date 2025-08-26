@@ -1,0 +1,14 @@
+# Site settings
+title: 내 블로그
+email: your-email@example.com
+description: "내 GitHub Pages 블로그에 오신 것을 환영합니다."
+baseurl: ""
+url: "https://dlwowls16.github.io"
+
+# Jekyll themes
+theme: jekyll-theme-minimal
+
+# Exclude files
+exclude:
+  - Gemfile
+  - Gemfile.lock
